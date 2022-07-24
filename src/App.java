@@ -41,7 +41,7 @@ public class App {
             System.out.println();
         }
 
-    /*feito por Allan Dellon .
+    /*feito por Allan Dellon
         GeradoraDeFigurinhas geradora = new GeradoraDeFigurinhas();
 
         for (int i = 0; i < listaDeFilmes.size(); i++) {
